@@ -1,10 +1,10 @@
 # Топ аддонов
 
-Мод: Обновление еды
-Больше 30 новых продуктов, еды и блюд появится с модом Food Expanded, которые можно крафтить даже в режиме выживания Minecraft....
-Подробнее: https://mcpehub.org/mods/12573-food-expanded.html
-Изображение: ![https://mcpehub.org/uploads/posts/2024-03/1711310683_food-expanded-main.jpg]
-Файлы: https://mcpehub.org/engine/dlfile.php?id=38124, https://mcpehub.org/engine/dlfile.php?id=38123
+Мод: Обновление еды\n
+Больше 30 новых продуктов, еды и блюд появится с модом Food Expanded, которые можно крафтить даже в режиме выживания Minecraft....\n
+Подробнее: https://mcpehub.org/mods/12573-food-expanded.html\n
+Изображение: https://mcpehub.org/uploads/posts/2024-03/1711310683_food-expanded-main.jpg\n
+Файлы: https://mcpehub.org/engine/dlfile.php?id=38124, https://mcpehub.org/engine/dlfile.php?id=38123\n
 
 Мод: Ранги в чате
 Мод Chat Ranks+ позволяет устанавливать различные ранги всем пользователям на серверах для Minecraft....
