@@ -2,7 +2,7 @@
 
 Мод: Обновление еды
 Больше 30 новых продуктов, еды и блюд появится с модом Food Expanded, которые можно крафтить даже в режиме выживания Minecraft....
-Подробнее: https://mcpehub.org/mods/12573-food-expanded.html\n
+Подробнее: https://mcpehub.org/mods/12573-food-expanded.html
 Изображение: https://mcpehub.org/uploads/posts/2024-03/1711310683_food-expanded-main.jpg
 Файлы: https://mcpehub.org/engine/dlfile.php?id=38124, https://mcpehub.org/engine/dlfile.php?id=38123
 
